@@ -1,5 +1,5 @@
 # LearnCodeOnline
-Saturday Coding Challenge Hosted by Hitesh Choudhary- [Free Code Camp](https://www.freecodecamp.org/)
+Saturday Coding Challenge Hosted by Hitesh Choudhary- [Learn Code Online](https://learncodeonline.in/)
 
 ### More information:
 
