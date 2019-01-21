@@ -44,7 +44,6 @@ public class LoginActivity extends AppCompatActivity  {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(LoginActivity.this,RegisterActivity.class));
-                overridePendingTransition(R.anim.fade_in,R.anim.fade_out);
             }
         });
 
