@@ -1,2 +1,2 @@
 # LearnCodeOnline
-Saturday Coding Challenge Hosted by Hitesh Chowdhary
+Saturday Coding Challenge Hosted by Hitesh Choudhary
